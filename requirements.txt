@@ -14,7 +14,7 @@ joblib==1.3.2
 #######           azure             #####
 #########################################
 azure-ai-textanalytics
-
+azure-ai-translation-text
 
 #########################################
 ####### hugging face and poythorch  #####
